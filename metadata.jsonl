@@ -1,0 +1,62 @@
+{"prompt1": "a glass dropped on the floor", "prompt2": "a glass placed gently on a table", "eval": "The glass shatters in p1. The glass is intact in p2"}
+{"prompt1": "an opened book in the rain", "prompt2": "an opened book on a table", "eval": "The book is soaked and wet in p1. The book is dry in p2"}
+{"prompt1": "an ice cube left on a table", "prompt2": "an ice cube in a freezer", "eval": "The cube melts in p1. The cube is frozen in p2"}
+{"prompt1": "a balloon filled with helium", "prompt2": "a balloon filled with air", "eval": "The ballon rises in p1. The ballon remains at ground in p2"}
+{"prompt1": "an apple cut in half left on the table", "prompt2": "a whole apple on the table", "eval": "The insides browns in p1. The apple keeps color in p2"}
+{"prompt1": "a plant rarely watered", "prompt2": "a plant regularly watered", "eval": "The plant wilts in p1. The plant is healthy and grows in p2"}
+{"prompt1": "a fast car crossing a puddle", "prompt2": "a slow car driving on a wet road", "eval": "The car creates splashes in p1. The car creates no splashes in p2"}
+{"prompt1": "a car tire with a hole", "prompt2": "a car tire properly inflated", "eval": "The tire is flat in p1. The tire is inflated in p2"}
+{"prompt1": "a faucet with the handle turned on", "prompt2": "a faucet with the handle turned off", "eval": "Water flows in p1. No water flow in p2"}
+{"prompt1": "flour mixed with water", "prompt2": "flour in a dry container", "eval": "The mix becomes dough in p1. The flour remains as powder in p2"}
+{"prompt1": "marshmallow skewered over a camping bonfire", "prompt2": "marshmallow kept in a bag", "eval": "Marshmallow browns and is charred in p1. Marshmallow remains soft and white in p2"}
+{"prompt1": "a spoonful of sugar mixed in glass of water", "prompt2": "a spoonful of sugar mixed in glass of oil", "eval": "Sugar dissolves in p1. Sugar does not dissolve in p2"}
+{"prompt1": "a steak on a grill", "prompt2": "a steak in a fridge", "eval": "The steak is brownish and cooked in p1. The steak is reddish and raw in p2"}
+{"prompt1": "charcoal in a barbecue grill", "prompt2": "charcoal in a bag", "eval": "Charcoal partly whitens in p1. Charcoal remains black in p2"}
+{"prompt1": "a toaster just finishing a round of toasting", "prompt2": "a toaster in the middle of toasting", "eval": "Bread pops up in p1. No bread pops up in p2"}
+{"prompt1": "a soap bar dipped in water", "prompt2": "a soap bar on the sink", "eval": "Bubbles floats up in p1. No bubbles appear in p2"}
+{"prompt1": "a lightbulb with no electricity", "prompt2": "a lightbulb with a broken filament", "eval": "The bulb doesn't light up in p1&p2"}
+{"prompt1": "an overripe banana", "prompt2": "a premature banana", "eval": "The banana blackens in p1. The banana is greenish in p2."}
+{"prompt1": "a lump of dough thoroughly baked", "prompt2": "a lump of dough just put on the kitchen table", "eval": "Dough is yellow and puffed in p1. Dough is white and small in p2"}
+{"prompt1": "a poped can of soda after violently shaken", "prompt2": "a poped can of soda opened slowly", "eval": "Soda fizzles in p1. No fizz in p2"}
+{"prompt1": "a man going on his knees to propose", "prompt2": "a woman getting proposed to by her man", "eval": "The man is holding a ring in p1. The woman is standing in p2"}
+{"prompt1": "a student during schooltime", "prompt2": "a student during break time", "eval": "The student is sitting at desk in p1. The student is not sitting at desk in p2"}
+{"prompt1": "a muddy path on a dry day", "prompt2": "a muddy path after a heavy rainstorm", "eval": "The road has dry mud in p1. The road has puddles and muddy water in p2"}
+{"prompt1": "a pedestrian at a red traffic light", "prompt2": "a pedestrian at a green traffic light", "eval": "The pedestrian stops at red light in p1. The pedestrian walks at green light in p2"}
+{"prompt1": "a conductor in the middle of a concert", "prompt2": "a conductor after the show's over", "eval": "The conductor is waving his baton in concert in p1. The conductor is not waving the baton in p2"}
+{"prompt1": "a teacher during class", "prompt2": "a teacher during break", "eval": "The teacher stands at front in p1. The teacher is not standing at front in p2"}
+{"prompt1": "an athlete at the start line", "prompt2": "an athlete at the finish line", "eval": "The athlete prepares to run in p1. The athlete stops running in p2"}
+{"prompt1": "a hiker on a trail", "prompt2": "a hiker at a campsite", "eval": "The hiker is walking in p1. The hiker is resting in p2"}
+{"prompt1": "a chef in the kitchen", "prompt2": "a chef on a break", "eval": "The chef is cooking in p1. The chef is not cooking in p2"}
+{"prompt1": "a worker at a construction site", "prompt2": "a construction worker at home", "eval": "The worker wears a safety helmet at the construction site in p1. The worker does not wear a safety helmet at home in p2"}
+{"prompt1": "a peacock trying to attract a mate", "prompt2": "a peacock alone", "eval": "The peacock spreads its feathers in p1. The peacock keeps its feathers folded in p2"}
+{"prompt1": "a bear when its cubs are threatened", "prompt2": "a bear when its cubs are safe", "eval": "The bear stands on its hind legs in p1. The bear proceeds calmly in p2"}
+{"prompt1": "geese during migrating season", "prompt2": "geese outside migrating season", "eval": "The geese fly in formation in p1. The geese do not fly in p2"}
+{"prompt1": "an owl hunting at night", "prompt2": "an owl resting in daylight", "eval": "The owl's eyes glow in p1. The owl's eyes are shut in p2"}
+{"prompt1": "bats at nightfall", "prompt2": "bats in the daytime", "eval": "The bats fly off in p1. The bats stay in their roost in p2"}
+{"prompt1": "a beaver building a dam", "prompt2": "a beaver at rest", "eval": "The beaver carries a stick in p1. The beaver is resting p2"}
+{"prompt1": "a tired koala", "prompt2": "an energetic koala", "eval": "The koala climbs a tree to sleep in p1. The koala engages in active behaviours in p2"}
+{"prompt1": "a butterfly on a sunny day", "prompt2": "a butterfly on a rainy day", "eval": "The butterfly flutters around in p1. The butterfly may take cover under leaves or other objects in p2"}
+{"prompt1": "a hawk that spots prey", "prompt2": "a hawk that soars aimlessly", "eval": "The hawk swoops in p1. The hawk continues to soar p2"}
+{"prompt1": "a tortoise feeling threatened", "prompt2": "a tortoise feeling safe", "eval": "The tortoise retreats into its shell in p1. The tortoise moves freely in p2"}
+{"prompt1": "a hippo in a hot weather", "prompt2": "a hippo in a cool weather", "eval": "The hippo submerges in water in p1. The hippo is on land in p2"}
+{"prompt1": "people in a restaurant", "prompt2": "people at a picnic", "eval": "People are using utensils in p1. People are eating with their hands in p2"}
+{"prompt1": "woman in a mosque", "prompt2": "woman at a beach", "eval": "The woman's hair is covered in p1. The woman's hair is not covered in p2"}
+{"prompt1": "person eating sushi", "prompt2": "person eating a burger", "eval": "The person is using chopsticks in p1. The person is using hands in p2"}
+{"prompt1": "crowd in a football game", "prompt2": "crowd watching a ballet", "eval": "The crowd is cheering in p1. The crowd is applauding quietly in p2"}
+{"prompt1": "person in Japan when greeting", "prompt2": "person in Italy when greeting", "eval": "The person is doing a slight bow in p1. The person is giving cheek kisses in p2"}
+{"prompt1": "man in Scotland on formal occasions", "prompt2": "man in Scotland on a casual day", "eval": "The man is wearing a kilt in p1. The man is not wearing a kilt in p2"}
+{"prompt1": "an apple tree in autumn", "prompt2": "an apple tree in spring", "eval": "The tree grows red apples in p1. The tree flowers in p2"}
+{"prompt1": "a hungry baby", "prompt2": "a baby just fed", "eval": "The baby cries in p1. The baby is silent or asleep in p2"}
+{"prompt1": "a mature dandelion", "prompt2": "a budding dandelion", "eval": "The dandelion is open and white in p1. The dandelion is closed and green in p2"}
+{"prompt1": "a tree in drought", "prompt2": "a well-watered tree", "eval": "The tree's leaves wilt in p1. The tree’s leaves are plush in p2"}
+{"prompt1": "hungry baby birds", "prompt2": "baby birds after feeding", "eval": "The baby birds open their mouths in p1. The baby birds don't open their mouths in p2"}
+{"prompt1": "an oak tree in spring", "prompt2": "an oak tree in winter", "eval": "The oak tree buds new leaves in p1. The oak tree loses leaves in p2"}
+{"prompt1": "a chameleon on a green leaf", "prompt2": "a chameleon on a brown branch", "eval": "The chameleon turns green in p1. The chameleon turns brown in p2"}
+{"prompt1": "a carnivorous plant capturing an insect", "prompt2": "a carnivorous plant in absence of insects", "eval": "The plant closes its trap in p1. The plant's traps are open in p2"}
+{"prompt1": "a spider making a home", "prompt2": "a spider wandering for prey", "eval": "The spider spins a web in p1. The spider actively moves in p2"}
+{"prompt1": "a child losing milk teeth", "prompt2": "a child with full set of milk teeth", "eval": "The child has a gap in teeth in p1. The child has a complete set of teeth in p2"}
+{"prompt1": "a satiated person during mealtime", "prompt2": "a hungry person during mealtime", "eval": "The person does not eat in p1. The person eats in p2"}
+{"prompt1": "an overripe avocado", "prompt2": "a premature avocado", "eval": "The avocado blackens in p1. The avocado is round and green in p2"}
+{"prompt1": "a frog laying eggs", "prompt2": "a hen laying eggs", "eval": "No visible frog eggs in p1. Visible chicken eggs in p2"}
+{"prompt1": "Alexander Graham Bell making a phone call", "prompt2": "Stalin making a phone call", "eval": "There is no mobile phone in p1&p2"}
+{"prompt1": "a candle in a vaccum environment", "prompt2": "a candle underwater", "eval": "The candle's flame is extinguished in p1&p2"}
